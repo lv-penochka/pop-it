@@ -1,0 +1,14 @@
+<svg width="73.000000" height="73.000000" viewBox="0 0 73 73" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<radialGradient id="paint_radial_10_16_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(36.5 36.5) rotate(90) scale(36.5 36.5)">
+			<stop stop-color="#F189FF"/>
+			<stop offset="0.346000" stop-color="#E13FF6" stop-opacity="0.850980"/>
+			<stop offset="0.570000" stop-color="#DF39F5" stop-opacity="0.831373"/>
+			<stop offset="1.000000" stop-color="#B32EC5"/>
+		</radialGradient>
+	</defs>
+	<circle id="Ellipse 4" cx="36.500000" cy="36.500000" r="36.500000" fill="url(#paint_radial_10_16_0)" fill-opacity="1.000000"/>
+</svg>
